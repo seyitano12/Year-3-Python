@@ -1,0 +1,7 @@
+#this is a comment
+#python ignores comments
+#comments are used to explain the code
+#the best programmers comment their code
+#the worst programmers dont comment at all
+#example
+name = "dave"
