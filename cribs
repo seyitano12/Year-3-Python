@@ -1,0 +1,15 @@
+#data types
+character = "i"
+realFloat = 54.55
+integer = 365
+boolean = True
+string = "sdf123"
+#cribs is a way to remember data types
+#for example:
+name = str(input("enter name"))
+
+#in this code we want the data to be entered as a string
+
+age = int(input("enter age"))
+
+price = float(input("enter price"))
