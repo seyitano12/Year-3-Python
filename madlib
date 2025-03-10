@@ -1,0 +1,13 @@
+print("WELCOME TO MADLIB")
+print("please enter the following instructions")
+print("")
+
+adjective1 = input("eenter an adjective")
+nationality1 = input("enter a nationality")
+
+print("")
+print("here is your MADLIB")
+print("")
+print("JRice is loved by huey the" ,adjective1, nationality1)
+
+
