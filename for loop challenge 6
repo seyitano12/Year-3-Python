@@ -1,0 +1,5 @@
+number = 0 
+number = number + 1
+rainbow =["red","orange","yellow","green","blue","indigo", "violet"]
+for i in rainbow:
+  print ("Colour",number*2,"is", i)
